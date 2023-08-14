@@ -99,9 +99,10 @@
       { "key": "/", "output": "/" },
       { "key": "?", "output": "?" },
       { "key": "।", "output": "।" },
-      { "key": "॥", "output": "॥" },
-  
-      
+      { "key": "॥", "output": "॥" }
+
+    ]
+    ,"spacial_key_mapping":[
       { "key": "CapsLock", "output": "capslock" },
       { "key": "Space", "output": " " },
       { "key": "Tab", "output": "tab" },
@@ -123,15 +124,5 @@
       { "key": "ArrowDown", "output": "downarrow" },
       { "key": "F1", "output": "f1" },
       { "key": "F2", "output": "f2" },
-      { "key": "F3", "output": "f3" },
-      { "key": "F4", "output": "f4" },
-      { "key": "F5", "output": "f5" },
-      { "key": "F6", "output": "f6" },
-      { "key": "F7", "output": "f7" },
-      { "key": "F8", "output": "f8" },
-      { "key": "F9", "output": "f9" },
-      { "key": "F10", "output": "f10" },
-      { "key": "F11", "output": "f11" },
-      { "key": "F12", "output": "f12" }
-    ]
+      { "key": "F3", "output": "f3" }]
   }
