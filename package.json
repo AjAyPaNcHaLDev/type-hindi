@@ -1,0 +1,24 @@
+{
+  "name": "type-hindi",
+  "version": "1.0.0",
+  "description": "hindi typing library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaypanchaldev/type-hindi.git"
+  },
+  "keywords": [
+    "hindi typing",
+    "typing words typing",
+    "type hindi character"
+  ],
+  "author": "ajaypanchaldev",
+  "license": "ISC", 
+   "bugs": {
+    "url": "https://github.com/ajaypanchaldev/type-hindi.git/issues"
+  },
+  "homepage": "https://github.com/ajaypanchaldev/type-hindi.git#readme"
+}
