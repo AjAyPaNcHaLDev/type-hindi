@@ -1,6 +1,6 @@
 {
   "name": "type-hindi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hindi typing library",
   "main": "index.js", 
   "scripts": {
@@ -11,9 +11,16 @@
     "url": "git+https://github.com/ajaypanchaldev/type-hindi.git"
   },
   "keywords": [
-    "hindi typing",
-    "typing words typing",
-    "type hindi character"
+    "hindityping",
+    "hindi-typing",
+    "type-hindi",
+    "typehindi",
+    "hinitype",
+    "kruti-dev-hindi",
+    "kruti 10 hindi",
+    "kruti-dev-10-hindi",
+    "krutidev 10 hindi",
+    "kruti-dev-10-hindi"
   ],
   "author": "ajaypanchaldev",
   "license": "ISC", 
