@@ -5,6 +5,12 @@
   "main": "index.js",
   "module": "index.js",
   "type": "module",
+  "files": [
+    "index.js",
+    "src",
+    "map.hindi-map.json",
+    "readme.md"
+  ],
   "exports": {
     ".": "./index.js",
     "./converters": "./src/converters/kruti-to-unicode.js",
