@@ -1,32 +1,43 @@
-  {
-    "name": "type-hindi",
-    "version": "1.0.2",
-    "description": "hindi typing library",
-    "main": "index.js", 
-    "module": "module",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ajaypanchaldev/type-hindi.git"
-    },
-    "keywords": [
-      "hindityping",
-      "hindi-typing",
-      "type-hindi",
-      "typehindi",
-      "hinitype",
-      "kruti-dev-hindi",
-      "kruti 10 hindi",
-      "kruti-dev-10-hindi",
-      "krutidev 10 hindi",
-      "kruti-dev-10-hindi"
-    ],
-    "author": "ajaypanchaldev",
-    "license": "ISC", 
-    "bugs": {
-      "url": "https://github.com/ajaypanchaldev/type-hindi.git/issues"
-    },
-    "homepage": "https://github.com/ajaypanchaldev/type-hindi.git#readme"
-  }
+{
+  "name": "type-hindi",
+  "version": "2.0.0",
+  "description": "Comprehensive Hindi Typing & Legacy Font Conversion Library (Kruti Dev, DevLys, Remington)",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./converters": "./src/converters/kruti-to-unicode.js",
+    "./alt-codes": "./src/encodings/alt-code.js",
+    "./map.hindi-map.json": "./map.hindi-map.json"
+  },
+  "scripts": {
+    "test": "node --test tests/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaypanchaldev/type-hindi.git"
+  },
+  "keywords": [
+    "hindityping",
+    "hindi-typing",
+    "type-hindi",
+    "typehindi",
+    "kruti-dev-hindi",
+    "kruti-dev-010",
+    "krutidev",
+    "devlys",
+    "remington-hindi",
+    "remington-keyboard",
+    "hindi-converter",
+    "unicode-to-krutidev",
+    "krutidev-to-unicode",
+    "alt-codes"
+  ],
+  "author": "ajaypanchaldev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaypanchaldev/type-hindi.git/issues"
+  },
+  "homepage": "https://github.com/ajaypanchaldev/type-hindi.git#readme"
+}
